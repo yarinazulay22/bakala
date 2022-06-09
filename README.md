@@ -1,7 +1,7 @@
 # bakala
 grocery store managment system
 
-# HEAD
+# head
 * list
 * list
 * list
